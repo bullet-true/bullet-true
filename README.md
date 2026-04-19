@@ -1,4 +1,4 @@
-# Hey! Я Игорь
+# Привет! Я Игорь
 
 Я **Android-разработчик**, специализирующийся на разработке приложений на **Kotlin**
 с использованием **Jetpack Compose**, **Clean Architecture** и современных Android-подходов.
@@ -41,12 +41,12 @@
 - **Локализация:** String Resources, Locale Configuration
 - **Сервисы и SDK:** Firebase (Realtime Database, Firestore), Google Maps API, Telegram Bot API
 - **Kotlin особенности:** Data classes, Enum classes, Sealed classes, Extension functions
-- **Тестирование:** JUnit, Mockk
+- **Тестирование:** JUnit, Mockk, Turbine, Room Testing, MockWebServer, Compose UI Test, Kaspresso, JaCoCo, Codecov
 - **Инструменты дизайна:** Figma
 
 ### Инструменты разработки
 - Android Studio
-- Git / GitHub
+- Git / GitHub / GitLab
 - Gradle
 - GitHub Actions (CI/CD)
 
