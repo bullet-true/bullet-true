@@ -56,26 +56,26 @@
 Проекты сгруппированы по технологиям и расположены в порядке убывания сложности:
 
 ## Основные:
-### 1. [RecipeComposeApp](https://github.com/bullet-true/RecipeComposeApp) 🟩
+### 1. [RecipeComposeApp](https://github.com/bullet-true/RecipeComposeApp) 🟩 (Jetpack Compose)
 Приложение для поиска и сохранения рецептов с современным UI на Jetpack Compose, с упором на архитектуру, масштабируемость и состояние UI.
 
 **Стек технологий:** Kotlin, Jetpack Compose, MVVM, Room Database, Kotlin Coroutines, Hilt/Dagger, Navigation Compose, Material Design 3, State Management, Coil, StateFlow, Repository Pattern, Модульная структура, Retrofit + OkHttp, JSON parsing, Git + GitHub, Pull Request, JUnit + Mockk
 
 ---
 
-### 2. [VK news client](https://github.com/bullet-true/VkNewsClient) 🟩
+### 2. [VK news client](https://github.com/bullet-true/VkNewsClient) 🟩 (Jetpack Compose)
 Мобильный клиент VK (в разработке).
 
 ---
 
-### 3. [RecipesApp](https://github.com/bullet-true/RecipesApp) 🟪
+### 3. [RecipesApp](https://github.com/bullet-true/RecipesApp) 🟪 (XML)
 Приложение для поиска и сохранения рецептов на базе традиционных Android Views (XML). Реализует MVVM архитектуру с упором на масштабируемость и управление состоянием UI.
 
 **Стек технологий:** Kotlin, Android Views (XML), MVVM, Room Database, Kotlin Coroutines/LiveData, Retrofit/OkHttp, ViewBinding/DataBinding, Material Design Components, RecyclerView, Fragment + Activity, Figma, Jetpack Navigation, ViewModel, Room, Parcelable, SharedPreferences, Hilt, Git, Pull Request, Glide
 
 ---
 
-### 4. [KotlinTelegramBot](https://github.com/bullet-true/KotlinTelegramBot) ⬛️
+### 4. [KotlinTelegramBot](https://github.com/bullet-true/KotlinTelegramBot) ⬛️ (Kotlin)
 Telegram-бот для изучения иностранных слов. Демонстрирует работу с Telegram Bot API, обработку асинхронных операций и интеграцию с базой данных.
 
 **Стек технологий:** Kotlin, Telegram Bot API, Kotlin Coroutines, OkHttp, Git, JSON, Kotlinx.Serialization, SQLite, GitHub Actions
