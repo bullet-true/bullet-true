@@ -18,28 +18,27 @@
 - **Jetpack Compose**
 - Android Views (XML)
 - Material Design
-- ViewBinding
-- DataBinding
 
 ### Архитектурные паттерны
+- Clean Architecture
 - **MVVM** (Model-View-ViewModel)
 - Repository Pattern
-- Clean Architecture
 
 ### Библиотеки и инструменты
-- **База данных:** Room, SQLite, SharedPreferences, Entity/DAO/Database
-- **Сетевые запросы:** Retrofit, OkHttp, Ktor, Gson/Moshi, REST API
-- **Сериализация:** JSON, Kotlinx.Serialization, Gson
+- **База данных:** Room, SQLite
+- **Data storages:** SharedPreferences, DataStore
+- **Сетевые запросы:** Retrofit, OkHttp, REST API
+- **Сериализация:** JSON, Kotlinx.Serialization, Gson, Moshi 
 - **Асинхронность:** Kotlin Coroutines, Flow, LiveData, StateFlow, Channel
 - **Dependency Injection:** Hilt, Dagger
-- **Навигация:** Navigation Component, Navigation Compose, Safe Args, Fragments
-- **UI компоненты:** RecyclerView, Paging 3, DiffUtil, ViewHolder Pattern, ViewPager, ViewPager2, TabLayout
+- **Навигация:** Navigation Component, Navigation Compose, Safe Args
+- **UI компоненты:** RecyclerView, Paging 3, DiffUtil, ViewHolder Pattern, ViewPager
 - **Архитектурные компоненты:** ViewModel, Lifecycle (Activity / Fragment)
 - **Работа с разрешениями:** Runtime Permissions, Activity Result API
 - **Камера и медиа:** Camera API, CameraX
 - **Анимации:** Property Animations, View Animations, Transition Animations, Compose Animations
 - **Локализация:** String Resources, Locale Configuration
-- **Сервисы и SDK:** Firebase (Realtime Database, Firestore), Google Maps API, Telegram Bot API
+- **Сервисы и SDK:** Firebase (Analytics, Crashlytics), Google Maps API, Telegram Bot API
 - **Kotlin особенности:** Data classes, Enum classes, Sealed classes, Extension functions
 - **Тестирование:** JUnit, Mockk, Turbine, Room Testing, MockWebServer, Compose UI Test, Kaspresso, JaCoCo, Codecov
 - **Инструменты дизайна:** Figma
