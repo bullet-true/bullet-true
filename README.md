@@ -54,22 +54,23 @@
 Проекты сгруппированы по технологиям и расположены в порядке убывания сложности:
 
 ## Основные:
-### 1. [RecipeComposeApp](https://github.com/bullet-true/RecipeComposeApp) 🟩 (Jetpack Compose)
+
+### 1. [Kinopoisk](https://github.com/bullet-true/KinopoiskApp) 🟩 (Jetpack Compose)
+Приложение для поиска информации о фильмах и сериалах (**в разработке**).
+
+В приложении будет реализована многомодульность, характерная для коммерческих проектов уровня production (разделение на фичи, data, domain, common-модули), а также современный стек технологий
+
+---
+
+### 2. [RecipeComposeApp](https://github.com/bullet-true/RecipeComposeApp) 🟩 (Jetpack Compose)
 Приложение для поиска и сохранения рецептов с современным UI на Jetpack Compose, с упором на архитектуру, масштабируемость и состояние UI.
 
 **Стек технологий:** Kotlin, Jetpack Compose, MVVM, Room Database, Kotlin Coroutines, Hilt/Dagger, Navigation Compose, Material Design 3, State Management, Coil, StateFlow, Repository Pattern, Модульная структура, Retrofit + OkHttp, JSON parsing, Git + GitHub, Pull Request, JUnit + Mockk
 
 ---
 
-### 2. [Kinopoisk](https://github.com/bullet-true/KinopoiskApp) 🟩 (Jetpack Compose)
-Приложение для поиска информации о фильмах и сериалах (в разработке).
-
-В приложении будет реализована многомодульность, характерная для коммерческих проектов уровня production (разделение на фичи, data, domain, common-модули), а также современный стек технологий
-
----
-
 ### 3. [VK news client](https://github.com/bullet-true/VkNewsClient) 🟩 (Jetpack Compose)
-Мобильный клиент VK (в разработке). 
+Мобильный клиент VK (**в разработке**). 
 В целях ознакомления в VK API
 
 ---
