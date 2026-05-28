@@ -1,7 +1,6 @@
-# Привет! Я Игорь
 
-Я **Android-разработчик**, специализирующийся на разработке приложений на **Kotlin**
-с использованием **Jetpack Compose**, **Clean Architecture** и современных Android-подходов.
+Я Android-разработчик, специализирующийся на разработке приложений на Kotlin
+с использованием Jetpack Compose, Clean Architecture и современных Android-подходов.
 
 В этом профиле собраны мои проекты, демонстрирующие архитектуру, работу с UI, сетью,
 базами данных и асинхронностью.
@@ -11,17 +10,17 @@
 ## 🛠 Технологии
 
 ### Языки программирования
-- **Kotlin**
+- Kotlin
 - Java
 
 ### UI / Presentation
-- **Jetpack Compose**
+- Jetpack Compose
 - Android Views (XML)
 - Material Design
 
 ### Архитектурные паттерны
 - Clean Architecture
-- **MVVM** (Model-View-ViewModel)
+- MVVM (Model-View-ViewModel)
 - Repository Pattern
 
 ### Библиотеки и инструменты
@@ -55,26 +54,35 @@
 Проекты сгруппированы по технологиям и расположены в порядке убывания сложности:
 
 ## Основные:
-### 1. [RecipeComposeApp](https://github.com/bullet-true/RecipeComposeApp) 🟩 (Jetpack Compose)
+
+### 1. [Kinopoisk](https://github.com/bullet-true/KinopoiskApp) 🟩 (Jetpack Compose)
+Приложение для поиска информации о фильмах и сериалах (**в разработке**).
+
+В приложении будет реализована многомодульность, характерная для коммерческих проектов уровня production (разделение на фичи, data, domain, common-модули), а также современный стек технологий
+
+---
+
+### 2. [RecipeComposeApp](https://github.com/bullet-true/RecipeComposeApp) 🟩 (Jetpack Compose)
 Приложение для поиска и сохранения рецептов с современным UI на Jetpack Compose, с упором на архитектуру, масштабируемость и состояние UI.
 
 **Стек технологий:** Kotlin, Jetpack Compose, MVVM, Room Database, Kotlin Coroutines, Hilt/Dagger, Navigation Compose, Material Design 3, State Management, Coil, StateFlow, Repository Pattern, Модульная структура, Retrofit + OkHttp, JSON parsing, Git + GitHub, Pull Request, JUnit + Mockk
 
 ---
 
-### 2. [VK news client](https://github.com/bullet-true/VkNewsClient) 🟩 (Jetpack Compose)
-Мобильный клиент VK (в разработке).
+### 3. [VK news client](https://github.com/bullet-true/VkNewsClient) 🟩 (Jetpack Compose)
+Мобильный клиент VK (**в разработке**). 
+В целях ознакомления в VK API
 
 ---
 
-### 3. [RecipesApp](https://github.com/bullet-true/RecipesApp) 🟪 (XML)
+### 4. [RecipesApp](https://github.com/bullet-true/RecipesApp) 🟪 (XML)
 Приложение для поиска и сохранения рецептов на базе традиционных Android Views (XML). Реализует MVVM архитектуру с упором на масштабируемость и управление состоянием UI.
 
 **Стек технологий:** Kotlin, Android Views (XML), MVVM, Room Database, Kotlin Coroutines/LiveData, Retrofit/OkHttp, ViewBinding/DataBinding, Material Design Components, RecyclerView, Fragment + Activity, Figma, Jetpack Navigation, ViewModel, Room, Parcelable, SharedPreferences, Hilt, Git, Pull Request, Glide
 
 ---
 
-### 4. [KotlinTelegramBot](https://github.com/bullet-true/KotlinTelegramBot) ⬛️ (Kotlin)
+### 5. [KotlinTelegramBot](https://github.com/bullet-true/KotlinTelegramBot) ⬛️ (Kotlin)
 Telegram-бот для изучения иностранных слов. Демонстрирует работу с Telegram Bot API, обработку асинхронных операций и интеграцию с базой данных.
 
 **Стек технологий:** Kotlin, Telegram Bot API, Kotlin Coroutines, OkHttp, Git, JSON, Kotlinx.Serialization, SQLite, GitHub Actions
